@@ -9,13 +9,17 @@ This project is an implementation of Checkers that lets users play against an AI
 
 This was my favorite data structures project. It was fun to code and debug. When the solution is ran the following window appears. This window lets players choose if they want to play against the AI or another human.
 
-![My Image](Images/Game-Setup.png)
+![Figure 1](Images/Game-Setup.png)
 
 *Figure 1 - Settings selection at the start of a game*
 
 After OK is clicked the game begins! The rules are the same as normal checkers. Pieces can only move to unoccupied spaces and checkers must skip if they have the opportunity. Checkers that reach the other side of the board are kinged The game proceeds until black or white are out the pieces. 
 
-![My Image](Images/Game-Start.png)
+![Figure 2](Images/Game-Start.png)
 
-![My Image](Images/Game-Over.png)
+*Figure 2 - Board at the begining of a game*
+
+![Figure 3](Images/Game-Over.png)
+
+*Figure 3 - Board once a player has won*
 
