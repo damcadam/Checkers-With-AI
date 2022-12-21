@@ -1,0 +1,12 @@
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\bin\Debug\Ksu.Cis300.Checkers.exe.config
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\bin\Debug\Ksu.Cis300.Checkers.exe
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\bin\Debug\Ksu.Cis300.Checkers.pdb
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.csproj.AssemblyReference.cache
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.NewGameDialog.resources
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.Properties.Resources.resources
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.UserInterface.resources
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.csproj.GenerateResource.cache
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.csproj.CoreCompileInputs.cache
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.exe
+C:\Users\darja\Desktop\AI Checkers\Checkers-With-AI\Code\Ksu.Cis300.Checkers\obj\Debug\Ksu.Cis300.Checkers.pdb
