@@ -9,6 +9,3 @@ This project is an implementation of Checkers that lets users play against an AI
 
 ![My Image](Images/Game-Setup.png)
 
-
-![alt text](https://github.com/[damcadam]/[Checkers-With-AI]/blob/[branch]/image.jpg?raw=true)
-
