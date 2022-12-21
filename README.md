@@ -11,7 +11,7 @@ This was my favorite data structures project. It was fun to code and debug. When
 
 ![My Image](Images/Game-Setup.png)
 
-Figure 1 - Settings selection at the start of a game
+*Figure 1 - Settings selection at the start of a game*
 
 After OK is clicked the game begins! The rules are the same as normal checkers. Pieces can only move to unoccupied spaces and checkers must skip if they have the opportunity. Checkers that reach the other side of the board are kinged The game proceeds until black or white are out the pieces. 
 
