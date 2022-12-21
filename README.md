@@ -15,3 +15,5 @@ After OK is clicked the game begins! The rules are the same as normal checkers. 
 
 ![My Image](Images/Game-Start.png)
 
+![My Image](Images/Game-Over.png)
+
